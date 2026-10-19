@@ -7,7 +7,7 @@
 ---
 
 ### Ringkasan Pengerjaan:
-1. **Periode Filter Waktu (Unik NIM 068)**:
+1. **Periode Filter Waktu**:
    - **Fold Training (P1)**: 08 Juni 2015 s.d. 10 Juni 2015 (`data/events_p1.csv`)
    - **Fold Testing (P2)** : 11 Juni 2015 s.d. 12 Juni 2015 (`data/events_p2.csv`)
 2. **Model Graf**:
